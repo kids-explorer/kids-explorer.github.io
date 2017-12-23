@@ -12,7 +12,7 @@ body {
   font-family: 'Muli', 'Helvetica', 'Arial', 'sans-serif'; }
 
 a {
-  color: #fdcc52;
+  color: #f37c20;
   -webkit-transition: all .35s;
   -moz-transition: all .35s;
   transition: all .35s; }
@@ -58,7 +58,7 @@ section {
   font-weight: 200;
   letter-spacing: 1px; }
   #mainNav .navbar-brand {
-    color: #fdcc52;
+    color: #f37c20;
     font-family: 'Catamaran', 'Helvetica', 'Arial', 'sans-serif';
     font-weight: 200;
     letter-spacing: 1px; }
@@ -74,7 +74,7 @@ section {
     letter-spacing: 2px;
     text-transform: uppercase; }
     #mainNav .navbar-nav > li > a.active {
-      color: #fdcc52 !important;
+      color: #f37c20 !important;
       background-color: transparent; }
       #mainNav .navbar-nav > li > a.active:hover {
         background-color: transparent; }
@@ -83,7 +83,7 @@ section {
     color: #222222; }
     #mainNav .navbar-nav > li > a:hover,
     #mainNav .navbar-nav > li > a:focus:hover {
-      color: #fdcc52; }
+      color: #f37c20; }
   @media (min-width: 992px) {
     #mainNav {
       border-color: transparent;
@@ -104,13 +104,13 @@ section {
         #mainNav.navbar-shrink .navbar-brand {
           color: #222222; }
           #mainNav.navbar-shrink .navbar-brand:hover, #mainNav.navbar-shrink .navbar-brand:focus {
-            color: #fdcc52; }
+            color: #f37c20; }
         #mainNav.navbar-shrink .navbar-nav > li > a,
         #mainNav.navbar-shrink .navbar-nav > li > a:focus {
           color: #222222; }
           #mainNav.navbar-shrink .navbar-nav > li > a:hover,
           #mainNav.navbar-shrink .navbar-nav > li > a:focus:hover {
-            color: #fdcc52; } }
+            color: #f37c20; } }
 
 header.masthead {
   position: relative;
@@ -277,12 +277,12 @@ footer {
         text-decoration: none; }
 
 .bg-primary {
-  background: #fdcc52;
-  background: -webkit-linear-gradient(#fdcc52, #fdc539);
-  background: linear-gradient(#fdcc52, #fdc539); }
+  background: #f37c20;
+  background: -webkit-linear-gradient(#f37c20, #fef33e);
+  background: linear-gradient(#f37c20, #fef33e); }
 
 .text-primary {
-  color: #fdcc52; }
+  color: #f37c20; }
 
 .no-gutter > [class*='col-'] {
   padding-right: 0;
@@ -294,8 +294,8 @@ footer {
   border-color: white; }
   .btn-outline:hover, .btn-outline:focus, .btn-outline:active, .btn-outline.active {
     color: white;
-    border-color: #fdcc52;
-    background-color: #fdcc52; }
+    border-color: #f37c20;
+    background-color: #f37c20; }
 
 .btn {
   border-radius: 300px;
